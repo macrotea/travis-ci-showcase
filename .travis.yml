@@ -1,3 +1,15 @@
 language: java
+
 jdk:
   - oraclejdk7
+
+notifications:
+  email:
+    recipients:
+      - macrotea@qq.com
+    on_success: always
+    on_failure: always
+
+branches:
+  only:
+    - master

@@ -17,6 +17,6 @@ public class ActionEnumTest {
 
     @Test
     public void testGetDesc_EDIT() throws Exception {
-        assertEquals(ActionEnum.EDIT.getDesc(), "编辑2");
+        assertEquals(ActionEnum.EDIT.getDesc(), "编辑");
     }
 }

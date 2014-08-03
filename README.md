@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/macrotea/travis-ci-showcase.png)](https://travis-ci.org/macrotea/travis-ci-showcase)
+
 这是一个简易的关于 travis-ci-showcase 的演示程序，通过构建简单的项目环境整合开发和测试该框架的相关功能和特性，故而便于学习，积累和分享！
 
 > 简介
